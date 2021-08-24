@@ -1,0 +1,1 @@
+This is my first assignment for The Odin Project course. Wish me luck!
